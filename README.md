@@ -54,3 +54,7 @@ MIT — free to use and modify.
 
 Let me know if you want to **auto-generate a download for this `README.md`** or publish it to GitHub too.
 
+
+### 🖼️ Example Output
+
+<img src="assets/sample_classification.png" width="600">
